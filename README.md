@@ -30,7 +30,7 @@ Whether you are an engineer managing on-call documentation from your smartphone,
   - [SaaS Comparison Table (Ranked by Company Scale)](#-saas-comparison-table-ranked-by-company-scale)
   - [Detailed SaaS Platform Highlights](#-detailed-saas-platform-highlights)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [Open-Source Rankings (Sorted by GitHub Stars)](#-open-source-rankings-sorted-by-github-stars)
+  - [Open-Source Rankings (Sorted by GitHub_Stars)](#-open-source-rankings-sorted-by-github-stars)
   - [Detailed Open-Source Project Deep Dives](#-detailed-open-source-project-deep-dives)
 - [🔍 Architectural Trade-Offs: SaaS vs. Self-Hosted](#-architectural-trade-offs-saas-vs-self-hosted)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -88,79 +88,79 @@ The table below catalogs premier commercial mobile workspace and documentation p
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source mobile workspace and documentation tools offer complete data privacy, transparent auditing, and immunity from SaaS pricing hikes. Below is the curated index of open-source repositories, **strictly ranked in descending order by GitHub star count**.
+Open-source mobile workspace and documentation tools offer complete data privacy, transparent auditing, and immunity from SaaS pricing hikes. Below is the curated index of open-source repositories, **strictly ranked in descending order by GitHub Stars_Count**.
 
-### ⭐ Open-Source Rankings (Sorted by GitHub Stars)
+### ⭐ Open-Source Rankings (Sorted by GitHub_Stars)
 
 | 🌟 Rank | 📦 Repository & Stargazers Badge | 📜 License | 📱 Mobile Architecture | 🛠️ Core Technology Stack |
 | :---: | :--- | :---: | :--- | :--- |
-| **#1** | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**<br>[![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | AGPL-3.0 | Native iOS & Android apps via Flutter | Flutter, Rust, SQLite |
-| **#2** | **[AFFiNE](https://github.com/toeverything/AFFiNE)**<br>[![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | MIT / Fair-Code | Official iOS & Android mobile apps | TypeScript, Rust, BlockSuite, Yjs |
-| **#3** | **[Joplin](https://github.com/laurent22/joplin)**<br>[![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers) | AGPL-3.0 | Native iOS & Android apps (React Native) | TypeScript, React Native, SQLite |
-| **#4** | **[Logseq](https://github.com/logseq/logseq)**<br>[![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) | AGPL-3.0 | Native iOS & Android apps with local vaults | ClojureScript, React Native, Datascript |
-| **#5** | **[Outline](https://github.com/outline/outline)**<br>[![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | BSL-1.1 | Touch-optimized progressive mobile web (PWA) | Node.js, React, PostgreSQL, Redis |
-| **#6** | **[Trilium Notes](https://github.com/TriliumNext/Trilium)**<br>[![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers) | AGPL-3.0 | Responsive mobile web UI + TriliumDroid client | JavaScript, Node.js, SQLite, CodeMirror |
-| **#7** | **[Wiki.js](https://github.com/requarks/wiki)**<br>[![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) | AGPL-3.0 | Responsive mobile interface & Markdown renderer | Node.js, Vue.js, GraphQL, PostgreSQL |
-| **#8** | **[Docmost](https://github.com/docmost/docmost)**<br>[![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) | AGPL-3.0 | Real-time collaborative mobile web workspace | NestJS, Vue 3, Tiptap, PostgreSQL |
-| **#9** | **[Notesnook](https://github.com/streetwriters/notesnook)**<br>[![GitHub stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers) | GPL-3.0 | Native iOS & Android cross-platform clients | TypeScript, React Native, SQLite |
-| **#10** | **[Standard Notes](https://github.com/standardnotes/app)**<br>[![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers) | AGPL-3.0 | Native iOS & Android apps with zero-knowledge E2EE | TypeScript, React Native, WebCrypto |
-| **#11** | **[SilverBullet](https://github.com/silverbulletmd/silverbullet)**<br>[![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) | MIT | Offline-capable progressive web application (PWA) | TypeScript, Deno, CodeMirror, Lua |
+| **#1** | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | AGPL-3.0 | Native iOS & Android apps via Flutter | Flutter, Rust, SQLite |
+| **#2** | **[AFFiNE](https://github.com/toeverything/AFFiNE)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | MIT / Fair-Code | Official iOS & Android mobile apps | TypeScript, Rust, BlockSuite, Yjs |
+| **#3** | **[Joplin](https://github.com/laurent22/joplin)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers) | AGPL-3.0 | Native iOS & Android apps (React Native) | TypeScript, React Native, SQLite |
+| **#4** | **[Logseq](https://github.com/logseq/logseq)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) | AGPL-3.0 | Native iOS & Android apps with local vaults | ClojureScript, React Native, Datascript |
+| **#5** | **[Outline](https://github.com/outline/outline)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | BSL-1.1 | Touch-optimized progressive mobile web (PWA) | Node.js, React, PostgreSQL, Redis |
+| **#6** | **[Trilium Notes](https://github.com/TriliumNext/Trilium)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers) | AGPL-3.0 | Responsive mobile web UI + TriliumDroid client | JavaScript, Node.js, SQLite, CodeMirror |
+| **#7** | **[Wiki.js](https://github.com/requarks/wiki)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) | AGPL-3.0 | Responsive mobile interface & Markdown renderer | Node.js, Vue.js, GraphQL, PostgreSQL |
+| **#8** | **[Docmost](https://github.com/docmost/docmost)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) | AGPL-3.0 | Real-time collaborative mobile web workspace | NestJS, Vue 3, Tiptap, PostgreSQL |
+| **#9** | **[Notesnook](https://github.com/streetwriters/notesnook)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers) | GPL-3.0 | Native iOS & Android cross-platform clients | TypeScript, React Native, SQLite |
+| **#10** | **[Standard Notes](https://github.com/standardnotes/app)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers) | AGPL-3.0 | Native iOS & Android apps with zero-knowledge E2EE | TypeScript, React Native, WebCrypto |
+| **#11** | **[SilverBullet](https://github.com/silverbulletmd/silverbullet)**<br>[![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) | MIT | Offline-capable progressive web application (PWA) | TypeScript, Deno, CodeMirror, Lua |
 
 ---
 
 ### 📖 Detailed Open-Source Project Deep Dives
 
-#### 1. 🦩 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+#### 1. 🦩 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - **Overview**: The leading open-source alternative to Notion, built with high-performance Flutter and a memory-safe Rust core.
 - **Mobile Experience**: First-class mobile client with native touch gestures, responsive board views, and offline-first persistence.
 - **Key Features**: Document and kanban database synchronization, end-to-end encrypted cloud or local-only storage, AI assistant support, and customizable UI widgets.
 
-#### 2. 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+#### 2. 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 - **Overview**: A next-generation knowledge base that seamlessly bridges standard textual documentation with infinite canvas whiteboards.
 - **Mobile Experience**: Official mobile apps for iOS and Android allowing teams to review docs, whiteboard brainstorms, and task boards on mobile devices.
 - **Key Features**: Local-first CRDT synchronization via Yjs, vector search integration, block-based markdown editor, and Docker self-hosting support.
 
-#### 3. 🐘 [Joplin](https://github.com/laurent22/joplin) [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
+#### 3. 🐘 [Joplin](https://github.com/laurent22/joplin) [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
 - **Overview**: PCMag's top-rated open-source personal note-taking application. A battle-tested Evernote replacement with extensive plugin ecosystems.
 - **Mobile Experience**: Complete Android and iOS apps with markdown/rich-text toggle, geolocation tagging, camera photo attachments, and full offline search.
 - **Key Features**: Client-side end-to-end encryption (E2EE), sync adapters for Nextcloud, Dropbox, WebDAV, OneDrive, and self-hosted Joplin Server. Includes an on-device local semantic search model.
 
-#### 4. 🧠 [Logseq](https://github.com/logseq/logseq) [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
+#### 4. 🧠 [Logseq](https://github.com/logseq/logseq) [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
 - **Overview**: A privacy-first, local-first outliner and networked personal knowledge management system powered by bi-directional linking.
 - **Mobile Experience**: High-utility iOS and Android apps that operate directly on your local device's Markdown or Org-mode directory.
 - **Key Features**: Graph visualization of interconnected concepts, Flashcard spaced repetition (SRS), customizable daily journaling workflows, and queryable metadata attributes.
 
-#### 5. ⚡ [Outline](https://github.com/outline/outline) [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
+#### 5. ⚡ [Outline](https://github.com/outline/outline) [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
 - **Overview**: A blazingly fast, modern documentation platform and wiki engineered for high-growth engineering teams.
 - **Mobile Experience**: Mobile-first progressive web application with instant page load speeds, touch-friendly navigation drawer, and real-time multiplayer editing.
 - **Key Features**: Seamless Slack/Google Workspace/OIDC authentication, real-time collaborative editing, automated document history, and granular permission controls.
 
-#### 6. 🌲 [Trilium Notes](https://github.com/TriliumNext/Trilium) [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
+#### 6. 🌲 [Trilium Notes](https://github.com/TriliumNext/Trilium) [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
 - **Overview**: A powerful hierarchical knowledge base tailored for power users maintaining extensive, deeply nested note trees (proven to 100,000+ notes).
 - **Mobile Experience**: Dedicated touch-optimized web interface accessible from any mobile browser; third-party Android native client available via **TriliumDroid**.
 - **Key Features**: Arbitrarily deep note hierarchies with cloned notes, built-in Excalidraw sketching, Mind Elixir mind-mapping, AES-128 per-note encryption, and automated script execution.
 
-#### 7. 🌐 [Wiki.js](https://github.com/requarks/wiki) [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
+#### 7. 🌐 [Wiki.js](https://github.com/requarks/wiki) [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
 - **Overview**: The most adaptable open-source wiki engine running on Node.js with multi-database support (PostgreSQL, MySQL, SQLite).
 - **Mobile Experience**: Responsive mobile web layout with dark mode, full-text mobile search, and mobile-friendly reader navigation.
 - **Key Features**: Built-in Git bidirectional sync, Markdown and visual WYSIWYG editors, granular authentication strategies (LDAP, SAML, OAuth2), and multi-lingual documentation capabilities.
 
-#### 8. 📝 [Docmost](https://github.com/docmost/docmost) [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
+#### 8. 📝 [Docmost](https://github.com/docmost/docmost) [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
 - **Overview**: Modern open-source collaborative wiki and documentation software designed as a lightweight alternative to Confluence and Notion.
 - **Mobile Experience**: Fully responsive browser interface optimized for smartphone screen viewports with live cursor tracking and markdown support.
 - **Key Features**: Real-time collaborative block editing, spaces management, permissions inheritance, diagram embedding, and Docker compose deployment.
 
-#### 9. 🔒 [Notesnook](https://github.com/streetwriters/notesnook) [![GitHub stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)
+#### 9. 🔒 [Notesnook](https://github.com/streetwriters/notesnook) [![GitHub_Stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)
 - **Overview**: Zero-knowledge encrypted note-taking application created as a user-friendly, private alternative to Evernote and Google Keep.
 - **Mobile Experience**: Feature-complete native iOS and Android mobile apps with biometric fingerprint/face lock, offline notes, and color tags.
 - **Key Features**: End-to-end encryption with XChaCha20-Poly1305, monolithic notebook hierarchies, markdown shortcuts, rich media attachments, and open-source sync backend.
 
-#### 10. 🛡️ [Standard Notes](https://github.com/standardnotes/app) [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)
+#### 10. 🛡️ [Standard Notes](https://github.com/standardnotes/app) [![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)
 - **Overview**: An end-to-end encrypted safe haven for personal notes, code snippets, credentials, and sensitive records.
 - **Mobile Experience**: Reliable native mobile applications with biometric lock and offline vault accessibility across unlimited devices.
 - **Key Features**: 100% zero-knowledge encryption audited by third parties, plain text note syncing on the free tier, and modular extensions (Spreadsheets, Vim keybindings, Markdown previewers).
 
-#### 11. 🔮 [SilverBullet](https://github.com/silverbulletmd/silverbullet) [![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
+#### 11. 🔮 [SilverBullet](https://github.com/silverbulletmd/silverbullet) [![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
 - **Overview**: An extensible, malleable personal knowledge base powered entirely by clean Markdown files and embedded Lua scripting.
 - **Mobile Experience**: Fully functional Progressive Web App (PWA) with offline caching and responsive touch command palletes.
 - **Key Features**: Live query widgets that dynamically render tables and lists from your notes, pluggable architecture, and zero proprietary database lock-in.
@@ -198,7 +198,7 @@ Contributions from developers, technical writers, and knowledge management enthu
 2. **Add or Update Entries**:
    - Ensure tools have clear mobile support (native iOS/Android app or mobile-optimized responsive web).
    - If adding a SaaS product, verify and include exact starting pricing and specific free tier / trial terms.
-   - If adding an open-source repo, include the standard shields.io social star badge linking to its stargazers page.
+   - If adding an open-source repo, include the standard shields.io social Stars_Badge linking to its stargazers page.
 3. **Maintain Consistency**: Follow the existing table formatting and neutral, factual style.
 4. **Submit a Pull Request**: Provide a concise summary of the addition or revision.
 
