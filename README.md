@@ -3,12 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logoggithub" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Workspace-Documentation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-Workspace-Documentation?style=social&color=white" alt="Repo Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Workspace-Documentation/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-Workspace-Documentation?style=social&color=white" alt="Repo Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Workspace-Documentation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Workspace-Documentation/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Workspace-Documentation"><img src="https://img.shields.io/badge/Maintained%3F-yes-emerald.svg?style=flat-square" alt="Maintenance"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -32,6 +34,8 @@ Whether you are an engineer managing on-call documentation from your smartphone,
   - [Detailed Open-Source Project Deep Dives](#-detailed-open-source-project-deep-dives)
 - [🔍 Architectural Trade-Offs: SaaS vs. Self-Hosted](#-architectural-trade-offs-saas-vs-self-hosted)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer & Data Governance](#️-disclaimer--data-governance)
 
 ---
@@ -197,6 +201,30 @@ Contributions from developers, technical writers, and knowledge management enthu
    - If adding an open-source repo, include the standard shields.io social star badge linking to its stargazers page.
 3. **Maintain Consistency**: Follow the existing table formatting and neutral, factual style.
 4. **Submit a Pull Request**: Provide a concise summary of the addition or revision.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mobile-Workspace-Documentation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mobile-Workspace-Documentation&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome Mobile Workspace & Documentation Ecosystem**! 
+
+If this curated repository helped you discover the right mobile note-taking tool, personal knowledge base, or self-hosted documentation stack, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** by submitting your favorite tools and updates via pull requests.
+- 📢 **Share with colleagues and friends** across developer communities, Reddit, X (Twitter), and LinkedIn.
+- ☕ **Buy Me a Coffee / Sponsor**: Support continuous curation and open-source maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
