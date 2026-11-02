@@ -88,7 +88,7 @@ The table below catalogs premier commercial mobile workspace and documentation p
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source mobile workspace and documentation tools offer complete data privacy, transparent auditing, and immunity from SaaS pricing hikes. Below is the curated index of open-source repositories, **strictly ranked in descending order by GitHub Stars_Count**.
+Open-source mobile workspace and documentation tools offer complete data privacy, transparent auditing, and immunity from SaaS pricing hikes. Below is the curated index of open-source repositories, **strictly ranked in descending order by GitHub_Stars_Count**.
 
 ### ⭐ Open-Source Rankings (Sorted by GitHub_Stars)
 
