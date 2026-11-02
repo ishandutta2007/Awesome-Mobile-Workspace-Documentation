@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
   <defs>
     <!-- Background Gradients -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -93,6 +93,9 @@
       .node-pulse-2 { animation: pulse-node 4s ease-in-out infinite 1.5s; }
       .node-pulse-3 { animation: pulse-node 3.5s ease-in-out infinite 0.7s; }
       .pill-badge { animation: badge-float 6s ease-in-out infinite; }
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
+      }
     </style>
   </defs>
 
@@ -133,18 +136,18 @@
     <!-- Top Category Tag -->
     <g transform="translate(600, 75)">
       <rect x="-180" y="-18" width="360" height="36" rx="18" fill="url(#badge-grad-1)" stroke="#4f46e5" stroke-width="1.2"/>
-      <text x="0" y="5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="1.5">
+      <text x="0" y="5" font-size="13" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="1.5">
         ⚡ AWESOME ECOSYSTEM DIRECTORY
       </text>
     </g>
 
     <!-- Main Title -->
-    <text x="600" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" text-anchor="middle" fill="url(#title-grad)" filter="url(#text-shadow)" letter-spacing="-0.8">
+    <text x="600" y="165" font-size="46" font-weight="900" text-anchor="middle" fill="url(#title-grad)" filter="url(#text-shadow)" letter-spacing="-0.8">
       Mobile Workspace &amp; Documentation
     </text>
 
     <!-- Subtitle -->
-    <text x="600" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500" text-anchor="middle" fill="#cbd5e1" filter="url(#text-shadow)">
+    <text x="600" y="215" font-size="19" font-weight="500" text-anchor="middle" fill="#cbd5e1" filter="url(#text-shadow)">
       Curated Guide to Mobile Note-Taking, Offline Knowledge Bases &amp; Self-Hosted Documentation
     </text>
 
@@ -153,7 +156,7 @@
       <!-- Pill 1: Mobile-First -->
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="180" height="42" rx="10" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1.2"/>
-        <text x="90" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
+        <text x="90" y="26" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
           📱 Mobile-First Sync
         </text>
       </g>
@@ -161,7 +164,7 @@
       <!-- Pill 2: Offline Knowledge -->
       <g transform="translate(210, 0)">
         <rect x="0" y="0" width="200" height="42" rx="10" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1.2"/>
-        <text x="100" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
+        <text x="100" y="26" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
           ⚡ Offline Knowledge Base
         </text>
       </g>
@@ -169,7 +172,7 @@
       <!-- Pill 3: E2E Privacy -->
       <g transform="translate(440, 0)">
         <rect x="0" y="0" width="190" height="42" rx="10" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1.2"/>
-        <text x="95" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
+        <text x="95" y="26" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
           🔒 E2EE &amp; Data Privacy
         </text>
       </g>
@@ -177,15 +180,15 @@
       <!-- Pill 4: Open Source & Self-Hosted -->
       <g transform="translate(660, 0)">
         <rect x="0" y="0" width="180" height="42" rx="10" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1.2"/>
-        <text x="90" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
+        <text x="90" y="26" font-size="14" font-weight="600" fill="#f8fafc" text-anchor="middle">
           🚀 Open-Source &amp; SaaS
         </text>
       </g>
     </g>
 
     <!-- Bottom Status Text -->
-    <text x="600" y="385" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" text-anchor="middle" fill="#64748b">
-      Verified Pricing &bull; Free Tier Limits &bull; GitHub Star Rankings &bull; Market Dynamics
+    <text x="600" y="385" font-size="13" font-weight="500" text-anchor="middle" fill="#64748b">
+      Verified Pricing &#8226; Free Tier Limits &#8226; GitHub Star Rankings &#8226; Market Dynamics
     </text>
   </g>
 </svg>
